@@ -8,7 +8,7 @@ import numpy as np
 
 
 
-model=YOLO('yolov9c.pt')
+model=YOLO('model_- 25 march 2024 2_53.pt')
 
 
 def predict(chosen_model, img, classes=[], conf=0.5):
