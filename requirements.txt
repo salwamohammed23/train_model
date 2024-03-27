@@ -1,4 +1,4 @@
-install ultralytics
+ultralytics
 streamlit
 numpy
 opencv-python
