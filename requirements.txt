@@ -1,0 +1,4 @@
+install ultralytics
+streamlit
+numpy
+opencv-python
